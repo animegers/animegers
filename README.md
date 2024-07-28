@@ -1,4 +1,4 @@
-# AniKatsu API
+# Animegers API
 
 ### Installing
 
@@ -6,8 +6,8 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/shashankktiwariii/anikatsu-api.git
-cd anikatsu-api
+git clone https://github.com/animegers/animegers.git
+
 npm install 
 ```
 start the server with the following command:
