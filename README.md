@@ -7,6 +7,7 @@ Clone the Repository and run
 
 ```
 git clone https://github.com/animegers/animegers.git
+```
 
 npm install 
 ```
